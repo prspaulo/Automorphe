@@ -1,0 +1,6 @@
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/Build/*.unityweb
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
