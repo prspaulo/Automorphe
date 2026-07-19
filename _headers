@@ -1,6 +1,11 @@
 /*
   Cache-Control: public, max-age=0, must-revalidate
 
-/Build/*.unityweb
-  Content-Type: application/octet-stream
-  Content-Encoding: gzip
+/Build/*.br
+  Content-Encoding: br
+
+/Build/*.js.br
+  Content-Type: application/javascript
+
+/Build/*.wasm.br
+  Content-Type: application/wasm
